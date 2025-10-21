@@ -152,10 +152,6 @@ python app.py sample_messages.json "Sarah"
 
 Found a bug or have a suggestion? Feel free to open an issue or submit a pull request!
 
-## License
+## Author 
+Michael Mendy (c) 2025. 
 
-MIT License - feel free to use and modify as needed
-
-## Disclaimer
-
-This tool is for entertainment and informational purposes. Human relationships are complex and can't be reduced to a percentage. Use your judgment, communicate openly, and don't let an algorithm make relationship decisions for you.
