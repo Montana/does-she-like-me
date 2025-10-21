@@ -1,6 +1,6 @@
-# Love Interest Analyzer
+# Does She Like Me?
 
-An ML/AI-powered tool that analyzes messaging patterns from various platforms (Facebook Messenger, Instagram, iMessage, WhatsApp, etc.) to determine the likelihood that someone is interested in you.
+DSLM is an ML/AI-powered tool that analyzes messaging patterns from various platforms (Facebook Messenger, Instagram, iMessage, WhatsApp, etc.) to determine the likelihood that someone is interested in you.
 
 ## Features
 
