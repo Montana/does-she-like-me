@@ -1,0 +1,51 @@
+# Message exports - NEVER commit these!
+*.json
+*.txt
+*.csv
+messages/
+exports/
+chats/
+
+# Except sample data
+!sample_messages*.json
+!requirements.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Analysis results (if we add export feature)
+results/
+output/
+reports/
