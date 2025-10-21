@@ -148,10 +148,5 @@ python app.py sample_messages.json "Sarah"
 - Can't detect sarcasm, inside jokes, or relationship context
 - Works best with recent, consistent conversations
 
-## Contributing
-
-Found a bug or have a suggestion? Feel free to open an issue or submit a pull request!
-
 ## Author 
 Michael Mendy (c) 2025. 
-
